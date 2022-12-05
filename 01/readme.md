@@ -39,3 +39,9 @@ In case the Elves get hungry and need extra snacks, they need to know which Elf 
 Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?
 
 write a python program to solve this program. read input from input.txt
+
+
+
+# ChatGPT
+
+(i forgot to save its response, sorry!)
