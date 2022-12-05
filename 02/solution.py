@@ -7,12 +7,12 @@ lines.pop()
 
 # dictionary to map letters to their corresponding numbers
 mapping = {
-'A': 1,
-'B': 2,
-'C': 3,
-'X': 1,
-'Y': 2,
-'Z': 3
+    'A': 1,
+    'B': 2,
+    'C': 3,
+    'X': 1,
+    'Y': 2,
+    'Z': 3
 }
 
 total_score = 0
