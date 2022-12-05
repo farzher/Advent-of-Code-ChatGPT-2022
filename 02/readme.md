@@ -28,3 +28,8 @@ In this example, if you were to follow the strategy guide, you would get a total
 What would your total score be if everything goes exactly according to your strategy guide?
 
 write a python program to solve this problem. read input from input.txt
+
+
+# ChatGPT
+
+![](https://i.imgur.com/CkLiiOf.png)
