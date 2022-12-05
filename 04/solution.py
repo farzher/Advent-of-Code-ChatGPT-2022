@@ -19,4 +19,5 @@ for line in lines:
     # Check if range1 contains range2 or range2 contains range1
     if range_contains(range1, range2) or range_contains(range2, range1):
         counter += 1
+        
 print(counter)
