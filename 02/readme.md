@@ -27,27 +27,4 @@ In this example, if you were to follow the strategy guide, you would get a total
 
 What would your total score be if everything goes exactly according to your strategy guide?
 
-write a javascript program to solve this problem. read input from strategy_guide.txt
-
-
-# Notes
-
-i couldn't get it to solve this one. it got so close but couldn't get these values correct so i just had to rewrite them.
-
-```js
-// win-loss outcomes for each pair of shapes
-const outcomes = {
-  AX: 0,
-  AY: 6,
-  AZ: 3,
-  BX: 6,
-  BY: 0,
-  BZ: 3,
-  CX: 3,
-  CY: 6,
-  CZ: 0
-};
-
-// FIX: chatgpt can't seem to get these values right so i had to manually write these in
-const outcomes = {AX: 0, AY: 6, AZ: 3, BX: 6, BY: 0, BZ: 3, CX: 3, CY: 6, CZ: 0 };
-```
+write a python program to solve this problem. read input from input.txt
